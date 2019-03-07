@@ -1,7 +1,7 @@
 # CBIR
 
 ### Description
-Thiis project builds a personal image search engine. Given our dataset of vacation photos, we want to make this dataset “search-able” by creating a “more like this” functionality — this will be a “search by example” image search engine. For instance, if I submit a photo of sail boats gliding across a river, our image search engine should be able to find and retrieve our vacation photos of when we toured the marina and docks.
+This project builds a personal image search engine. Example:- Given a dataset of vacation photos, we can make it “search-able” by creating a “more like this” functionality — this will be a “search by example” image search engine. For instance, if I submit a photo of sail boats gliding across a river, this image search engine will be able to find and retrieve all the vacation photos which includes sail boats and river.
 
 
 
