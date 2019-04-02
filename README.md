@@ -1,7 +1,7 @@
 # CBIR
 
 ### Description
-This project builds a personal image search engine. Example:- Given a dataset of vacation photos, we can make it “search-able” by creating a “more like this” functionality — this will be a “search by example” image search engine. For instance, if I submit a photo of sail boats gliding across a river, this image search engine will be able to find and retrieve all the vacation photos which includes sail boats and river.
+This project builds a personal image search engine. It returns similar images based on the query image. It analyzes the contents of the image rather than the metadata such as keywords, tags, or descriptions associated with the image for searching. I have used color based histogram to find the similarity between images.
 
 
 
